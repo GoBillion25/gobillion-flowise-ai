@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "flowise": "^1.2.16"
+    "flowise": "^1.2.16",
+    "npx": "^10.2.2"
+  },
+  "scripts": {
+    "start": "npx flowise start"
   }
 }
